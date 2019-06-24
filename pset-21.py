@@ -1,4 +1,4 @@
-balance = 999999
+balance = 93453
 annualInterestRate =0.18
 low = balance/12
 
